@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodluck3301&show_icons=true&theme=radical" alt="goodluck3301" /></p>
 
-![snake gif](https://github.com/goodluck3301/goodluck3301/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/goodluck3301/goodluck3301/blob/output/github-contribution-grid-snake.svg)
