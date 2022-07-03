@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goodluck3301&show_icons=true&locale=en&layout=compact" alt="goodluck3301" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=goodluck3301&show_icons=true&locale=en" alt="goodluck3301" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=goodluck3301&show_icons=true&locale=en" alt="goodluck3301" /></p>
