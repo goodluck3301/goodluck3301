@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
+[![MasterHead](https://github.com/goodluck3301/goodluck3301/blob/main/images/Purple%20Blue%20Colorful%20Gaming%20LinkedIn%20Banner%20(1).png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Levon</h1>
 <h3 align="center">Android developer from Armenia</h3>
 
