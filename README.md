@@ -36,6 +36,6 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodluck3301&show_icons=true&theme=radical" alt="goodluck3301" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodluck3301&show_icons=true&theme=radical" /></p>
 
 
