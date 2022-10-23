@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*bMjd0UHNBlLD02s7wVYV3Q.jpeg)](https://rishavchanda.io)
 <h1 align="center"><a href="https://goodluck3301.github.io/">Hi 👋, I'm Levon</a></h1>
 <h3 align="center">Mobile developer from Armenia</h3>
 
