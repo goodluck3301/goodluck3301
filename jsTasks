@@ -1,0 +1,27 @@
+const calculate = (str) => {
+    
+  let start = end = sum = 0
+
+  for (let i = 0; i < str.length; i++) {
+    if (str[i] === " " || i === 0) {
+        for (let j = start + 1; j < str.length; j++) {
+          if (str[j] === " ") {
+            end = j
+            break
+          } else if (j === str.length - 1) end = j + 1
+        }
+    } else continue
+
+    let temp = ""
+    for (let j = start; j < end; j++)
+      temp += String(str[j]) 
+
+    sum += +temp
+    temp = ""
+    start = end
+  }
+  return sum
+}
+
+let prompt_result = "111    -5  7   2 3     -12"
+console.log(calculate(prompt_result))
