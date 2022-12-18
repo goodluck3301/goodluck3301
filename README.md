@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*bMjd0UHNBlLD02s7wVYV3Q.jpeg)](https://rishavchanda.io)
 <h1 align="center"><a href="https://goodluck3301.github.io/">Hi 👋, I'm Levon</a></h1>
-<h3 align="center">Mobile developer from Armenia</h3>
+<h3 align="center">Mobile Developer From Armenia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="goodluck3301" /> </p>
 
