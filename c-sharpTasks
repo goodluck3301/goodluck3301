@@ -127,3 +127,50 @@ class HelloWorld {
         
   }
 }
+
+
+/******************************************************************************
+
+                                    364
+
+*******************************************************************************/
+using System;
+class HelloWorld {
+
+  static void printMatrix(int[,] matrix, int m) {
+    for (int i = 0; i < m; i++) {
+        for(int j = 0; j < m; j++)
+            Console.Write(matrix[i, j]+" ");
+        Console.WriteLine();
+      } 
+    Console.Write("\n-----------------------\n");
+  }    
+    
+    static void Main() {
+      
+      int m = 8;
+      int[,] mtx = new int[m,m];
+      Random r = new Random();
+      
+      for (int i = 0; i < m; i++) 
+        for(int j = 0; j < m; j++)
+            mtx[i,j] = r.Next(10, 50);
+    
+      int count = 0;
+      int sum = 0;
+      
+      for (int i = 0; i < m; i++) 
+        for(int j = i; j<m; j++)
+            if(mtx[i,i]%2!=0) {
+            count++;
+            sum += mtx[i,i];
+           // Console.Write(mtx[i,i]+" ");
+          }
+       
+       double result = (1.0*sum)/(1.0*count);
+            
+       Console.Write("\nMatrix is:\n----------\n");
+       printMatrix(mtx,m);
+       Console.WriteLine(result);
+   }
+}
