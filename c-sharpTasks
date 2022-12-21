@@ -29,3 +29,66 @@ class HelloWorld
         Console.Write($"\n A = {a}, B = {b}\nCount = {count}");
     }
 }
+
+
+
+/******************************************************************************
+
+                                    291
+
+*******************************************************************************/
+using System;
+class HelloWorld {
+
+  static void printArray(int[] arr) {
+    for (int i = 0; i < arr.Length; i++)
+        Console.Write(arr[i] + " ");
+    Console.Write("\n-----------------------\n");
+  }    
+    
+  static void Main() {
+      
+      repeat: 
+        int n = 10;
+        int[] x = new int[n];
+        int[] z = new int[n];
+        Random r = new Random();
+
+        for (int i = 0; i < x.Length; i++)
+             x[i] = r.Next(1, 50);
+        
+        int maxVal = x[0];
+        int maxValIndex = 0;
+        
+        for (int i = 0; i < x.Length-1; i++)
+            if(maxVal<x[i+1]){
+                maxVal = x[i+1];
+                maxValIndex = i+1;
+            }
+        
+        if(maxValIndex<=2)
+            goto repeat;
+        
+        int size = 0;
+        for (int i = 0; i <= maxValIndex; i++)
+            if(i%2==0){
+                z[i] = x[i]+maxVal;
+                size++;
+            }
+        
+        int[] y = new int[size];
+        int index = 0;
+         for (int i = 0; i < z.Length; i++)
+            if(z[i]!=0) {
+                 y[index] = z[i];
+                 index++;
+            }
+                
+        Console.Write("\nX array is: ");    
+        printArray(x);
+        Console.Write($"Max Value is: {maxVal}\nMax Value Index is: {maxValIndex}\n-----------------------\n");
+        Console.Write("Y array is: ");
+        printArray(y);
+        
+  }
+}
