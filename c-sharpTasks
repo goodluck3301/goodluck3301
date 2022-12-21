@@ -31,6 +31,41 @@ class HelloWorld
 }
 
 
+/******************************************************************************
+
+        			242
+
+*******************************************************************************/
+using System;
+class HelloWorld {
+
+  static void printArray(int[] arr){
+    for (int i = 0; i < arr.Length; i++)
+        Console.Write(arr[i] + " ");
+    Console.Write("\n-----------------------\n");
+  }    
+    
+  static void Main() {
+      
+        int n = 10;
+        int[] x = new int[n];
+        int[] y = new int[n];
+        Random r = new Random();
+
+        for (int i = 0; i < x.Length; i++)
+            x[i] = r.Next(-50, 50);
+        for (int i = 0; i < x.Length; i++)
+            if(x[i]>0 || x[i]<0)
+                y[i]=x[i];
+        
+        Console.Write("X array is: ");    
+        printArray(x);
+        Console.Write("Y array is: ");
+        printArray(y);
+        
+  }
+}
+
 
 /******************************************************************************
 
