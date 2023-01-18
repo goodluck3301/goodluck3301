@@ -174,3 +174,90 @@ class HelloWorld {
        Console.WriteLine(result);
    }
 }
+
+
+
+/******************************************************************************
+                           367
+*******************************************************************************/
+
+using System;
+class HelloWorld {
+
+  static void printMatrix(int[,] matrix, int m) {
+    for (int i = 0; i < m; i++) {
+        for(int j = 0; j < m; j++)
+            Console.Write(matrix[i, j]+" ");
+        Console.WriteLine();
+      } 
+    Console.Write("\n");
+  }    
+    
+    static void Main() {
+      
+      int m = 8;
+      int[,] mtx = new int[m,m];
+      Random r = new Random();
+      
+      for (int i = 0; i < m; i++) 
+        for(int j = 0; j < m; j++)
+            mtx[i,j] = r.Next(1, 10);
+    
+      int k = 3;
+      long multiply = 1; 
+      
+      for (int i = 0; i < m; i++) 
+        for(int j = 0; j < (m-i); j++)
+            if(mtx[i,j] % k==0)
+                multiply =multiply * mtx[i,j];
+             
+       Console.Write("\nMatrix is:\n\n");
+       printMatrix(mtx,m);
+       Console.WriteLine($"K = {k}");
+       Console.WriteLine($"Result = {multiply}");
+   }
+}
+
+
+//
+
+
+/******************************************************************************
+
+                                    412
+
+*******************************************************************************/
+using System;
+class HelloWorld {
+
+  static void printMatrix(int[,] matrix, int m) {
+    for (int i = 0; i < m; i++) {
+        for(int j = 0; j < m; j++)
+            Console.Write(matrix[i, j]+" ");
+        Console.WriteLine();
+      } 
+    Console.Write("\n");
+  }    
+    
+    static void Main() {
+      
+      int m = 10;
+      int[,] mtx = new int[m,m];
+      Random r = new Random();
+      
+      for (int i = 0; i < m; i++) 
+        for(int j = 0; j < m; j++)
+            mtx[i,j] = r.Next(10, 100);
+    
+      int max = mtx[0,0];
+      
+      for (int i = 0; i < m; i++) 
+        for(int j = i; j<m; j++)
+            if(max<mtx[i,j])
+                max = mtx[i,j];
+             
+       Console.Write("\nMatrix is:\n\n");
+       printMatrix(mtx,m);
+       Console.WriteLine($"Max Number is: {max}");
+   }
+}
