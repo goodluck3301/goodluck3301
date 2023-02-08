@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/levon-m-741122239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/levon-momchyan-741122239" height="30" width="40" /></a>
 <a href="https://instagram.com/lyyyov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyyyov" height="30" width="40" /></a>
 <a href="https://t.me/goodluck3301" target="blank"><img align="center" src="https://static.tildacdn.com/tild3435-3836-4436-b739-393537613432/noroot.png" alt="goodluck3301" height="30" width="30" /></a>
- 
+<a href="https://leetcode.com/gllm3301/" target="blank"><img align="center" src="https://assets.leetcode.com/users/avatars/avatar_1662921832.png" alt="goodluck3301" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Technologies:</h3>
@@ -35,6 +35,6 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </a>
 </p>
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodluck3301&show_icons=true&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodluck3301&show_icons=true&theme=radical" /></p>
  
 
