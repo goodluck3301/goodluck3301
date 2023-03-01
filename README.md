@@ -19,7 +19,8 @@
 <a href="https://www.linkedin.com/in/levon-m-741122239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/levon-momchyan-741122239" height="30" width="40" /></a>
 <a href="https://instagram.com/lyyyov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyyyov" height="30" width="40" /></a>
 <a href="https://t.me/goodluck3301" target="blank"><img align="center" src="https://static.tildacdn.com/tild3435-3836-4436-b739-393537613432/noroot.png" alt="goodluck3301" height="30" width="30" /></a>
-<a href="https://leetcode.com/gllm3301/" target="blank"><img align="center" src="https://assets.leetcode.com/users/avatars/avatar_1662921832.png" alt="goodluck3301" height="30" width="30" /></a>
+<a href="https://leetcode.com/gllm3301/" target="blank"><img align="center" src="https://assets.leetcode.com/users/avatars/avatar_1662921832.png" alt="goodluck3301" height="30" width="30" /></a> <a href="https://medium.com/@goodluck3301" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/923954?s=200&v=4" alt="goodluck3301" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="left">Languages and Technologies:</h3>
