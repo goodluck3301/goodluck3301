@@ -8,11 +8,11 @@
 
  
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Software Engeener**
 
 - 👨‍💻 All of my projects are available at [https://github.com/goodluck3301](https://github.com/goodluck3301)
 
-- 💬 Ask me about **Mobile Development**
+- 💬 Ask me about **Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
