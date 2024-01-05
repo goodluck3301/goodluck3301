@@ -8,11 +8,11 @@
 
  
 
-- 🌱 I’m currently learning **Programming**
+- 🚀 I've progressed from learning to mastering **Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/goodluck3301](https://github.com/goodluck3301)
 
-- 💬 Ask me about **Programming**
+- 💬 I'm here to help with anything related to **Programming**. Ask me anything!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
